@@ -1,2 +1,2 @@
 # PixelDawn
-Senior Design Project
+CS197N Senior Design Project
